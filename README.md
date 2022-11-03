@@ -1,9 +1,9 @@
-# telnet_reboot
+# router_reboot
 simple script to reboot router from telnet shell
 
 # Clone
 ```bash
-git clone https://github.com/GothPH/telnet_reboot
+git clone https://github.com/GothPH/router_reboot
 ```
 
 # Usage
