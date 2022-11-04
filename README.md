@@ -13,7 +13,7 @@ python reboot.py
 ```
 + Or with expect language
 ```bash
-./reboot.exp
+./reboot.tcl
 ```
 
 #### Note:                
