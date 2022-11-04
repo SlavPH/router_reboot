@@ -1,5 +1,7 @@
 #!/usr/bin/expect -f
 
+# Tested on a zoltrix router
+
 set username "user"
 set password "user"
 set command "reboot"
