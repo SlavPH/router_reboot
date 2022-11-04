@@ -2,7 +2,7 @@
 
 set username "user"
 set password "user"
-set command "show"
+set command "reboot"
 
 spawn telnet "192.168.1.1"
 expect "Username:"
