@@ -1,5 +1,5 @@
 #!/usr/bin/expect -f
-# Hello from gulmughan
+
 # Tested on a zoltrix router
 
 set username "user"
