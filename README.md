@@ -11,7 +11,7 @@ git clone https://github.com/GothPH/router_reboot
 ```bash
 python reboot.py
 ```
-or with expect language
++ Or with expect language
 ```bash
 ./reboot.exp
 ```
